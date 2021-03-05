@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail : chethan.dnc@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Code, Ride, Help Others and Live Happily
+
+### Tech Stacks
+- HTML, CSS, Bootstrap, JavaScript, ReactJs, Redux
+
+### Tools Familiar with
+- Github, Netlify, Visual Studio Code, Postman
