@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ### Tools Familiar with
 - `Github`, `Netlify`, `Visual Studio Code`, `Postman`
 
-![Chethan's github stats](https://github-readme-stats.vercel.app/api?username=chethandn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chethandn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Chethan's github stats](https://github-readme-stats.vercel.app/api?username=chethandn&theme=tokyonight)
