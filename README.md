@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 - E-mail : chethan.dnc@gmail.com
-- LinkedIn : linkedin.com/in/chethan-dn-10b227a9
+- LinkedIn :  linkedin.com/in/chethan-dn-10b227a9
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Code, Ride, Help Others and Live Happily
