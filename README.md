@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... -->
 
 ### How to reach me: 
-- [E-mail](chethan.dnc@gmail.com)
+- E-mail: `chethan.dnc@gmail.com`
 - [LinkedIn](https://www.linkedin.com/in/chethan-dn-10b227a9)
 
 
