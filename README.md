@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Tech Stacks
-- `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `ReactJs`, `Redux`
+- `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `ReactJs`, `Redux`, `Redux tool kit`,
 
 ### Tools Familiar with
 - `Github`, `Netlify`, `Visual Studio Code`, `Postman`
